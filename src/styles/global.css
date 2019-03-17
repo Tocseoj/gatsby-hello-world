@@ -1,3 +1,5 @@
 html {
-  background-color: lavenderblush;
+  /* background-color: lavenderblush; */
+  /* background: linear-gradient(rgb(141, 202, 224) 40%, rgb(218, 218, 135) 55%, #f09960 75%, rgb(238, 116, 163) 100%); */
+  min-height: 100vh;
 }
